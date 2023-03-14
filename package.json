@@ -1,0 +1,28 @@
+{
+  "name": "sparrow-chat",
+  "version": "1.0.0",
+  "description": "AI chat bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish58/Sparrow-Chat.git"
+  },
+  "author": "Ashish Ashwin Aayush Abinash Tula Sri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish58/Sparrow-Chat/issues"
+  },
+  "homepage": "https://github.com/Ashish58/Sparrow-Chat#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "morgan": "^1.10.0"
+  }
+}
